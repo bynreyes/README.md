@@ -46,3 +46,33 @@ infra:
   - linux: Administración de servidores Debian/RHEL
   - contenedores: Docker, Kubernetes básico
   - hojas: Google Sheets → API automatizada
+
+```
+
+## 🤝 Cómo colaboro
+
+    Escucha activa: Entiendo primero, luego ejecuto.
+    Trabajo en equipo: Creo en la seguridad como responsabilidad compartida.
+    Ética: Mi norte es "¿Esta acción respeta las normas y protege a los usuarios?"
+
+## 📬 Contribuciones abiertas
+
+    [ThreatIntel-ML]: Detector de phishing con ML (dataset público + modelo explicable)
+    [CloudSec-Playbooks]: Automatización de respuesta a incidentes en GCP
+    [Ethical-Pentest-Reports]: Plantillas de reportes para divulgación responsable
+
+## 📊 Métricas de impacto
+Table
+Copy
+Métrica	2024	Meta 2025
+Vulnerabilidades reportadas (responsable)	12	30
+Usuarios protegidos por mis scripts	1.2k	10k
+Contribuciones a proyectos open-source	45 commits	150 commits
+📞 Conectemos
+
+    🐦 Twitter: [@tu_handle]
+    💼 LinkedIn: [linkedin.com/in/tu_perfil]
+    📧 Mail: [tu@email.com]
+    🌐 Blog: [tusoluciones.dev]
+
+    "La seguridad no es un producto, es un proceso que mejora cuando lo compartimos."
