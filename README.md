@@ -62,12 +62,7 @@ infra:
     [Ethical-Pentest-Reports]: Plantillas de reportes para divulgación responsable
 
 ## 📊 Métricas de impacto
-Table
-Copy
-Métrica	2024	Meta 2025
-Vulnerabilidades reportadas (responsable)	12	30
-Usuarios protegidos por mis scripts	1.2k	10k
-Contribuciones a proyectos open-source	45 commits	150 commits
+
 📞 Conectemos
 
     🐦 Twitter: [@tu_handle]
